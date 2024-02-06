@@ -1,3 +1,11 @@
+```bash
+docker:
+
+xxnuo/memos
+
+ghcr.io/xxnuo/memos
+```
+
 <img height="56px" src="https://www.usememos.com/full-logo-landscape.png" alt="Memos" />
 
 A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
